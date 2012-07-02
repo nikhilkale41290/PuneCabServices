@@ -1,6 +1,6 @@
 <?php
 session_start();	
-
+//This code is the HTML part of the change password..
 $user_name=$_SESSION['user_name'];
 ?>
 <!DOCTYPE html>
