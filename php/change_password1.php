@@ -1,6 +1,6 @@
 <?php
 session_start();
-
+//This code is for updating the password
 $user_name = $_SESSION['user_name'];
 //echo $user_name;
 $old_pass = $_POST['old_password'];
